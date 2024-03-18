@@ -1,2 +1,0 @@
-import glyphNanny.defaults
-import glyphNanny.editorLayers
